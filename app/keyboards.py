@@ -16,6 +16,6 @@ main = ReplyKeyboardMarkup(keyboard=[
 
 settings = InlineKeyboardMarkup(inline_keyboard=[
     [
-        InlineKeyboardButton(text='YouTube', url='https://youtube.com')
+        InlineKeyboardButton(text='First model(linear regression)', url='https://youtube.com')
     ]
 ])
